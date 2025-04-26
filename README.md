@@ -1,7 +1,3 @@
-Perfect — thanks for sending the full details! 🙌  
-Here's your cleaned-up and properly formatted **README.md** for **TrendCast**:
-
----
 
 # 📈 TrendCast
 
